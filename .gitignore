@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python (Ambientes virtuais)
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Segurança e Variáveis de Ambiente
+.env
+.env.local
+
+# Arquivos de sistema/IDE
+.DS_Store
+.vscode/
+.idea/
